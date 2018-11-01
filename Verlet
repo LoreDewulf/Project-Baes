@@ -1,4 +1,4 @@
-```c++
+```C++
 #define _USE_MATH_DEFINES
 #include <cmath>
 #include <fstream>
@@ -147,5 +147,5 @@ int main()
 	
 	return 0;
 }
-```++
+```C++
 
