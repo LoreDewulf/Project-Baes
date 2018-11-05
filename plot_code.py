@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-# load the columns
+# load  the columns
 
 bestand = open("oef6_solution.txt", 'r')
 bestand.readline()
